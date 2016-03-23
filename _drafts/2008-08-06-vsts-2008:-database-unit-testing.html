@@ -1,0 +1,11 @@
+---
+layout: post
+title: 'VSTS 2008: Database Unit Testing'
+date: '2008-08-06T13:21:00.001-04:00'
+author: Dawn
+tags: 
+modified_time: '2008-08-06T13:56:55.176-04:00'
+blogger_id: tag:blogger.com,1999:blog-6005334108330583722.post-1889627722317828426
+---
+
+I have been testing database extractions (called "data pulls") for quite a while.  It tends to go something like this:<br /><ol><li>IT departments gets notified of a contract that has been signed for a user, for a one-time (or regularly occurring) set of data from our database.</li><li>IT is given delivery date (ugh!)</li><li>If it is going to be QA'ed (*sigh* yes, if ... ), then our db guy comes over to me (he believes in QA a LOT), and talks about what is involved in the pull</li><li>Then, he starts writing his SQL code</li><li>and at the same time, I start writing a C# command-line program that will read his output file and do my own queries and compare the results</li><li>When db guy is done, I run my program, and together we work through any discrepancies.</li></ol>So when I put VSTS 2008 (that's Visual Studio Team Suite) on my machine recently to accomplish another task, I noticed that there was a new test type, called "Database Unit Test".<br /><br />Ooooooooooooooooooooooooh ... gotta look into this.<br /><br />So, after a few hours of playing, here is what I have found:<br /><br />Here is a decent article with a walkthrough-type tutorial on the basics:  http://www.developer.com/db/article.php/10920_3758601_4<br /><br /><br />
