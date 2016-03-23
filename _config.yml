@@ -15,6 +15,11 @@ social:
   linkedin: dawncode
   twitter: dckismet
   rss: feed.xml
+  
+tags:
+  automation
+  agile
+  exploratory
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key:
