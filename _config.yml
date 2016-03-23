@@ -13,6 +13,7 @@ baseurl: '/'
 social:
   github: dawntestcode
   linkedin: dawncode
+  twitter: dckismet
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
