@@ -5,14 +5,17 @@ title: About Me
 ---
 
 Dawn Code (formerly Dawn Cannan) is a software test evangelist with 17 years of technical experience and 13 years of experience managing and coaching teams.  She focuses most on breaking down walls between different roles on development teams, creating environments that empower whole team ownership and allow cross-role learning and continuous improvement.
+==
 
-###Blog writer: http://dawntestcode.github.io/
+### Blog writer:
 
-###Open source development:
+http://dawntestcode.github.io/
+
+### Open source development:
 
 Developed the .NET plugin for SeleNesse, a plugin for Selenium tests in the FitNesse framework
 
-###Conference presentations:
+### Conference presentations:
 
 Agile Worlds Conference Presentation: “*Testing Legacy Applications*”
 
@@ -28,7 +31,7 @@ ADP East:  Co-taught 2-day Agile Testing Workshop
 
 Keynote speaker at STAREast: Lightning Strikes the Keynotes
 
-###Published articles:
+### Published articles:
 
 Article with sidebar by Lisa Crispin, “*Be the Worst*”, Agile Record, Jan 2010
 
