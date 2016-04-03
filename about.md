@@ -1,54 +1,39 @@
 ---
-layout: page 
-title: About
+layout: page
+title: About Me
 
 ---
 
-### Dark version of jekyll-clean theme
+Dawn Code (formerly Dawn Cannan) is a software test evangelist with 17 years of technical experience and 13 years of experience managing and coaching teams.  She focuses most on breaking down walls between different roles on development teams, creating environments that empower whole team ownership and allow cross-role learning and continuous improvement.
 
-This theme was created on top of Jekyll Clean theme by Scotte, you can view the originnal version in action [on his blog](https://scotte.github.io).
+#Blog writer: http://dawntestcode.github.io/
 
-* Get it from [github](https://github.com/streetturtle/jekyll-clean-dark).
-* See the [live demo](http://pavelmakhov.com/jekyll-clean-dark).
-* See it [in action on my own blog](http://pavelmakhov.com).
+#Open source development:
 
-This theme uses some parts of Twitter Bootstrap, which allows it to look nice on a mobile devices using a collapsable nav bar and hiding the
-sidebar.
+Developed the .NET plugin for SeleNesse, a plugin for Selenium tests in the FitNesse framework
 
-Optionally you can use:
+#Conference presentations:
 
- - [Disqus](http://disqus.com) as a comments system;
- - [Google Analyticse](http://www.google.com/analytics/);
- - [Yandex Metrika](http://metrica.yandex.com);
- - Blog tags.
+Agile Worlds Conference Presentation: “Testing Legacy Applications”
 
-All these features could be set up in `_config.yml`. Also you can have social icons which could lead to your social acounts. Out-of-the box it has: LinkedIn, GitHub, StackOverflow, LastFm, Instagram. You can easily add more by putting svg images in a /css/social folder.
+STAREast Half-day tutorial: "Executable Specifications with FitNesse and Selenium”
 
-Installation
-==
+Agile Conference Tutorial:  Better Story Testing through Programmer-Tester Pairing
 
-If you dont't have your own blog you can clone this repository and put your articles in a `_posts` folder.
-If you already have your own blog then I think you can clone this repository and copy-paste content keeping your `_posts` folder.
+Agile Conference Presentation: Why Your Selenium Tests are so Dang Brittle, and What to Do About It
 
-After you will have to set up your `_config.yml`
+ADP West:  Co-taught 2-day Agile Testing Workshop
 
-License
-=======
+ADP East:  Co-taught 2-day Agile Testing Workshop
 
-The content of this theme is distributed and licensed under a
-[Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+Keynote speaker at STAREast: Lightning strikes the keynotes
 
->This license lets others distribute, remix, tweak, and build upon your work,
->even commercially, as long as they credit you for the original creation. This
->is the most accommodating of licenses offered. Recommended for maximum
->dissemination and use of licensed materials.
+#Published articles:
 
-In other words: you can do anything you want with this theme on any site, just please
-provide a link to the original theme on github.
+Article with sidebar by Lisa Crispin, “Be the Worst”, Agile Record, Jan 2010
 
-This theme includes the following files which are the properties of their
-respective owners:
+Article, "Old Habits Die Hard", Stickyminds, Feb 2011
 
-* js/bootstrap.min.js - [bootstrap](http://getbootstrap.com)
-* css/bootstrap.min.css - [bootstrap](http://getbootstrap.com)
-* js/jquery.min.js - [jquery](https://jquery.com)
+Article, “Hiring misses: When we turn someone down for the wrong reasons”, DZone
+
+Article, “What do you mean, don’t submit bugs?”, DZone
