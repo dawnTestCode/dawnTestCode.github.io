@@ -15,12 +15,14 @@ social:
   linkedin: dawncode
   twitter: dckismet
   rss: feed.xml
-  
+
 tags:
   automation
   agile
   exploratory
   testing
+  random
+  writing
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key:
