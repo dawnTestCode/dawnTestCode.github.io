@@ -9,7 +9,7 @@ Dawn Code (formerly Dawn Cannan) is a software test evangelist with 17 years of 
 
 ### Blog writer:
 
-http://dawntestcode.github.io/
+&nbsp;&nbsp;http://dawntestcode.github.io/
 
 ### Open source development:
 
