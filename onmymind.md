@@ -21,4 +21,4 @@ I thought it might be a fun idea to do something a little bit different.  I'd li
 
 * Testers as SME
 
-* 
+* Startups and testing expertise
